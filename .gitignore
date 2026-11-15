@@ -1,0 +1,16 @@
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+migration-data/
+qa-*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+node_modules
+venv
+.venv
+__pycache__
+.git
+.env
+.env.*
+*.log
+*.zip
+build
+dist
+migration-data
+qa-*
+tests
